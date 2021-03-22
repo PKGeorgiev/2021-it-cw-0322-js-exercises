@@ -2,7 +2,7 @@ function min(x, y) {
     return x + y;
 }
 
-let sumFunck = function(x, y)
+let sumFunc = function(x, y)
 {
     return x + y;
 }
